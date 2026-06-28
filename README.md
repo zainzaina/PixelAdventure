@@ -1,7 +1,9 @@
 Pixel Adventure
 
 <p align="center"> <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity" /> <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=csharp" /> <img src="https://img.shields.io/badge/Genre-2D%20Platformer-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Style-Pixel%20Art-green?style=for-the-badge" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity" /> <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=csharp" /> <img src="https://img.shields.io/badge/Genre-2D%20Platformer-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Style-Pixel%20Art-green?style=for-the-badge" /> </p>
 
+<p align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/> </p>
 About
 
 Pixel Adventure is a 2D platformer game developed using Unity. The project focuses on classic platforming gameplay combined with pixel art graphics, smooth animations, responsive controls, and engaging level design.
@@ -34,16 +36,7 @@ Play the Game
 
 Play on itch.io
 
-PIXEL ADV PLATFORMER by zainnofan
-
-Screenshots
-
-Add your screenshots here.
-
-images/gameplay1.png
-images/gameplay2.png
-images/gameplay3.png
-Learning Outcomes
+https://zainnofan.itch.io/pixel-adv-platformer
 
 This project helped me improve my experience in:
 

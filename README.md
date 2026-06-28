@@ -1,9 +1,8 @@
 Pixel Adventure
 
 <p align="center"> <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity" /> <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=csharp" /> <img src="https://img.shields.io/badge/Genre-2D%20Platformer-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Style-Pixel%20Art-green?style=for-the-badge" /> </p>
-<p align="center"> <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity" /> <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=csharp" /> <img src="https://img.shields.io/badge/Genre-2D%20Platformer-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Style-Pixel%20Art-green?style=for-the-badge" /> </p>
-
-<p align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/> </p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpiOHdpeHRxNDY0emxxN2t0N3N0ZzU0NGhidHU1anZ5ZWl4dW8xMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gx54W1mSpeYMg/giphy.gif" width="600"/> </p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGxzYTIwNWkwcWF1dHl2YTBwYmR2c2FkcmZhNHdybTRqbWlmMXZhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SV09Wp6hvMW7m/giphy.gif" width="600"/> </p>
 About
 
 Pixel Adventure is a 2D platformer game developed using Unity. The project focuses on classic platforming gameplay combined with pixel art graphics, smooth animations, responsive controls, and engaging level design.
